@@ -23,13 +23,13 @@ I make machines think, learn, and help humans solve real-world problems. AI/ML D
 ---
 
 ### 🚀 Projects
-- **HomeMatch** – Real estate assistant using LLM embeddings to match buyers with listings. [Repo](#)  
-- **AI Photo Editor** – Image segmentation and object detection using SAM + diffusion models. [Repo](#)  
-- **Custom Chatbot with RAG** – Retrieval-augmented chatbot integrating Wikipedia/CSV data. [Repo](#)  
-- **Fine-Tuning BERT with LoRA** – Parameter-efficient fine-tuning for NLP tasks. [Repo](#)  
-- **Vision Pointer: Eye-Controlled Mouse** – Eye-tracking system to control mouse events. [Repo](#)  
-- **IoT-Based Water Quality Monitoring System** – Classifying water as safe/unsafe using sensors and AI. [Repo](#)  
-- **House Price Prediction** – Regression model deployed via Flask REST API. [Repo](#)  
+- **HomeMatch** – Real estate assistant using LLM embeddings to match buyers with listings. [Repo](https://github.com/saisreereddy19/-HomeMatch-Personalized-Real-Estate-Agent-LangChain-Vector-DBs-LLMs-)  
+- **AI Photo Editor** – Image segmentation and object detection using SAM + diffusion models. [Repo](https://github.com/saisreereddy19/stable-diffusion-sam-inpaint)  
+- **Custom Chatbot with RAG** – Retrieval-augmented chatbot integrating Wikipedia/CSV data. [Repo](https://github.com/saisreereddy19/-Custom-Chatbot-with-RAG-and-OpenAI)  
+- **Medical Appointment Scheduling AI Agent** – Parameter-efficient fine-tuning for NLP tasks. [Repo](https://github.com/saisreereddy19/Medical-appointment-scheduling-AI-agent)
+- **Vision Pointer: Eye-Controlled Mouse** – Eye-tracking system to control mouse events. [Repo](https://github.com/saisreereddy19/Vision-Pointer-Eye-Controlled-Mouse)  
+- **IoT-Based Water Quality Monitoring System** – Classifying water as safe/unsafe using sensors and AI. [Repo](https://github.com/saisreereddy19/Enhanced-IOT-based-Water-Quality-Monitoring-system)  
+- **House Price Prediction** – Regression model deployed via Flask REST API. [Repo](https://github.com/saisreereddy19/House-price-prediction)  
 
 ---
 
