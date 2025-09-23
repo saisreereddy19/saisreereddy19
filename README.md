@@ -23,7 +23,7 @@ I make machines think, learn, and help humans solve real-world problems. AI/ML D
 ---
 
 ### 🚀 Projects
-- **HomeMatch** – Real estate assistant using LLM embeddings to match buyers with listings. [Repo]([https://github.com/saisreereddy19/HomeMatch-Personalized-Real-Estate-Agent](https://github.com/saisreereddy19/HomeMatch-Personalized-Real-Estate-Agent))
+- **HomeMatch** – Real estate assistant using LLM embeddings to match buyers with listings. [Repo](https://github.com/saisreereddy19/HomeMatch-Personalized-Real-Estate-Agent)
 - **AI Photo Editor** – Image segmentation and object detection using SAM + diffusion models. [Repo](https://github.com/saisreereddy19/stable-diffusion-sam-inpaint)  
 - **Custom Chatbot with RAG** – Retrieval-augmented chatbot integrating Wikipedia/CSV data. [Repo](https://github.com/saisreereddy19/-Custom-Chatbot-with-RAG-and-OpenAI)  
 - **Medical Appointment Scheduling AI Agent** – Parameter-efficient fine-tuning for NLP tasks. [Repo](https://github.com/saisreereddy19/Medical-appointment-scheduling-AI-agent)
