@@ -43,8 +43,4 @@ AI, ML, NLP, Computer Vision, Transformers, RAG, LoRA, Python, PyTorch, TensorFl
 - LinkedIn: [https://www.linkedin.com/in/saisreereddyy](https://www.linkedin.com/in/saisreereddyy)  
 - GitHub: [https://github.com/saisreereddy19](https://github.com/saisreereddy19)   
 
----
 
-
-### 📊 GitHub Stats
-![Teena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisreereddy19&show_icons=true&theme=radical)
