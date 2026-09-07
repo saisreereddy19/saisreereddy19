@@ -41,7 +41,6 @@ AI 🤖, ML 📊, NLP 📝, Computer Vision 🖼️, Transformers, RAG, LoRA, Py
 
 ### 📫 How to Reach Me
 - ✉️ Email: saisreereddysangam@gmail.com 
-- 🐱 GitHub: [github.com/saisreereddy19](https://github.com/saisreereddy19)  
-- 📸 Instagram: [instagram.com/stnareddyy](https://www.instagram.com/stnareddyy?igsh=MXY2cjVqbW4zZ25law==)  
+
 
 
